@@ -1,0 +1,28 @@
+.s
+{
+    background-image: url(https://live.staticflickr.com/65535/50062419511_9c67619ed3_b.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 60vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1
+{
+    font-size: 80px;
+}
+.h
+{
+    padding-top: 70px;
+    font-size: 35px;
+}
+.v
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}
